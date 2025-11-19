@@ -26,4 +26,4 @@ This project is an ergonomic alert system designed to prevent health issues caus
 ## Future Improvements
 * Adding a vibrating motor for silent alerts.
 * Integration with a mobile app via Bluetooth.
-* 
+
